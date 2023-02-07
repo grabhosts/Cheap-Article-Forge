@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Article Forge In Cheap Price" />
-       <p className="description"> Let's get started. </p>
+ 
     <h2>1. Article Forge: Low Cost, Low Cost</h2>
-<p>One of the most well-liked article writing programmes available is called Article Forge. Without needing to engage an experienced writer, it enables you to swiftly and simply produce high-quality content. But since it might be pricey, many people search for Article Forge discounts.</p>
+<p className="description>One of the most well-liked article writing programmes available is called Article Forge. Without needing to engage an experienced writer, it enables you to swiftly and simply produce high-quality content. But since it might be pricey, many people search for Article Forge discounts.</p>
 <p>Fortunately, there are a few methods to get Article Forge for less money. One option is to purchase it through a reseller. Companies that offer software at a discount are known as resellers, and they sometimes have special agreements with the software makers. In other words, they may charge you less than the developer's official website.</p>
 <p>Search for unique discounts and deals to receive a discount on Article Forge which you can easily find here at <a href="https://grabhosts.net/deals/article-forge-coupon-code/" title="Article Forge Coupons">GrabHosts.net</a>. These may be obtained on cheap software websites or the developer's website. It's worth coming back often to see what's available since sometimes there are unique deals that are only available for a short period of time.</p>
 <p>Last but not least, if you're a student or a member of a professional group, your organisation may be able to provide you a discount on Article Forge. Ask your organization's administrator if they have any bargains that you may take advantage of, since many organisations have agreements with software companies.</p>
