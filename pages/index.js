@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Article Forge In Cheap Price" />
-       
+       <p className="description"> Let's get started. </p>
     <h2>1. Article Forge: Low Cost, Low Cost</h2>
 <p>One of the most well-liked article writing programmes available is called Article Forge. Without needing to engage an experienced writer, it enables you to swiftly and simply produce high-quality content. But since it might be pricey, many people search for Article Forge discounts.</p>
 <p>Fortunately, there are a few methods to get Article Forge for less money. One option is to purchase it through a reseller. Companies that offer software at a discount are known as resellers, and they sometimes have special agreements with the software makers. In other words, they may charge you less than the developer's official website.</p>
